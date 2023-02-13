@@ -1,0 +1,18 @@
+Esse é um curso somente teórico que traz uma boa introdução
+sobre como funciona as seguintes coisas:
+
+Internet:
+Navegadores, DNS, HTTP, HTTPS, IP, MAC, Servidores
+
+Computador:
+RAM, CPU, GPU, Kernel, Firmware
+
+Sistemas Operacionais:
+Unix: Linux, Mac, Android, IOS ...
+Windows: Windows 7, 8.1, 10, 11 ...
+
+Programas:
+Software, programs, apps
+
+Sites:
+Estático, Dinâmico, SPA (Single Page Application)
